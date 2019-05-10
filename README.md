@@ -2,4 +2,4 @@
 Codes for paper "Chi-square Generative Adversarial Network"
 
 
-## To be updated before ICML 2018
+## To be updated before ICML ---2018--- 2019
